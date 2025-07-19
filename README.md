@@ -1,41 +1,53 @@
-# 📈 Marketing Campaign Performance Analysis
+# 🍽️ Marketing Campaign Performance Analysis – Airline In-Flight Catering
 
-This project evaluates the effectiveness of in-flight airline marketing strategies — specifically those related to catering quality, sustainability practices, and customer satisfaction. Using real survey data and regression analysis, we identify which factors drive customer loyalty and willingness to pay.
+This project investigates how in-flight catering and service quality affect customer satisfaction, loyalty, and brand perception across two major U.S. airlines: Delta and American Airlines. The study combines survey data, hypothesis testing, and regression analysis to identify what truly matters to airline passengers when it comes to in-flight food and experience.
 
 ---
 
-## 🎯 Objectives
-- Analyze customer perception of airline food quality
-- Evaluate impact of health-conscious and sustainable food practices
-- Determine predictors of satisfaction and brand loyalty using regression
+## 🎯 Project Goals
+
+- Compare passenger satisfaction with Delta vs. American Airlines in-flight food services
+- Evaluate how dietary options, meal customization, and packaging influence perception
+- Quantify impact of catering on overall flight experience and brand loyalty
+- Provide actionable insights to airlines for enhancing customer retention and ROI
 
 ---
 
 ## 🧰 Tools & Techniques
-- Microsoft Excel (Survey data and regression inputs)
-- R / Python (Statistical modeling)
-- Tableau Public (Interactive dashboard)
-- Marketing Frameworks: SERVQUAL, Perceived Value Theory
+
+- Excel (Data cleaning and preparation)
+- R / Python (Statistical analysis, regression)
+- Tableau (Interactive dashboard visualizations)
+- Theoretical Models:
+  - Perceived Value Theory
+  - SERVQUAL Framework
+  - Cultural Sensitivity in Service
 
 ---
 
-## 📊 Key Metrics
-- Average customer satisfaction
-- Willingness to pay more for quality meals
-- Importance of food presentation
-- Cultural & dietary accommodation impact
-- NPS (likelihood to recommend)
+## 📊 Key KPIs and Metrics
+
+- Overall Passenger Satisfaction (scale 1–5)
+- Preference for Gluten-Free / Healthy Meals
+- Importance of Food Customization
+- Impact of Eco-Friendly Packaging
+- Likelihood to Recommend (NPS proxy)
 
 ---
 
 ## 📈 Visualizations (Coming Soon)
-- KPI Cards
-- Bar Chart: Satisfaction by Segment
-- Likert-Style Agreement Chart
-- Heatmap of Response Intensity
-- Static Regression Output
+
+- KPI Cards: Avg Satisfaction, % Preference for Gluten-Free
+- Bar Chart: Meal Satisfaction by Airline
+- Heatmap: Correlation Between Dietary Options and Experience
+- Pie Chart: Airline Preference
+- Word Clouds: Open-Ended Passenger Feedback
+- Regression Results Table
 
 ---
 
 ## 👤 Team
+
 Swetha Pothu, Shwetha Lokeshkumar, Reilly Bronson, Skylar Schmidt, Vaibhavi Shastri
+
+---
