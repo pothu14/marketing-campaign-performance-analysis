@@ -1,0 +1,69 @@
+Q3,Q4,Q5,Q5_4_TEXT,Q6,Q7,Q7_8_TEXT,Q8,Q9_1,Q10_4,Q11_1,Q12,Q13_1,Q14_4,Q15,Q16_1,Q17_1,Q18,Q19_1,Q20,Q21_1,Q22,Q23,Q24,Q25,Q26,Q26_6_TEXT,Q27,Q28,Q29
+Have you flown on a domestic flight or international flight in the last 12 months?,How many times have you flown in the last 12 months?,What was the primary purpose of your most recent flight(s)? - Selected Choice,What was the primary purpose of your most recent flight(s)? - Other - Text,Which class did you travel in on your most recent flight?,Do you have any specific dietary preferences or requirements? - Selected Choice,Do you have any specific dietary preferences or requirements? - Other - Text,"Have you flown these airline? If you have flown both, please choose the airline you've flown most often. 
+
+Note: The airline you choose will be the airline the questions are based on for the rest of the survey!",How satisfied were you with the in-flight food offerings on your most recent flight - 4,"On a scale of 0-4 (0=extremely poor, 4=excellent) how would you rate the customer service related to in-flight dining ? - 4",Do you believe the in-flight food offerings provide good value for the cost? - 1,Would you consider purchasing a premium meal during your flight if it were available?,How does the presentation and quality of in-flight food affect your perception of the airline's brand? - 1,"How likely would it be that you choose an airline based on their dining options? (0= unlikely, 4=likely) - 4","If you are interested in purchasing a premium meal during your flight (1 entree), how much would you be willing to pay for it?","On a scale of 0-3 (0=no importance, 3=extremely important) how important are customization options (e.g., dietary accommodations, meal choices) for your satisfaction with in-flight dining? - 1",How would you feel if the airline offered only vegetarian options? - 1,Would you prefer an airline that offers exclusively gluten-free meals on all its flights?,To what extent did the customer service during mealtimes affect your overall flight experience? - 1,Would you prefer an airline that offers exclusively healthy meals on all its flights?,"How significant is the role of eco-friendly food packaging, like cardboard containers and biodegradable utensils, in your choice of an airline? - 1",Please share any specific experiences or suggestions you have regarding in-flight dining that could improve your satisfaction.,"Do you have any other comments, questions, or concerns regarding airline catering services?",What specific aspects of customer service during mealtimes are most impactful to overall satisfaction of your flight experience.,Please select the gender you identify with,Please select the ethnicity that you belong to - Selected Choice,Please select the ethnicity that you belong to - Other - Text,Please choose the age category that you belong to,What is your households annual income?,What is the highest level of education you have completed?
+1,2,3,,1,1,,2,4,4,4,3,4,3,2,1,3,1,1,1,4,,,,1,4,,3,7,4
+1,2,1,,1,2,,2,4,2,4,2,4,2,3,1,2,1,1,1,2,NA,NA,NA,2,4,,3,4,5
+1,3,2,,2,5,,2,6,3,3,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,2,4,Furry conventions,1,1,,2,6,3,1,3,2,3,6,1,2,1,1,1,0,"Airline phone apps should show what the flight is offer, should be able to order from the app",,,1,1,,3,3,2
+1,3,1,,1,2,,1,3,3,4,3,4,2,1,2,3,2,1,1,1,"Light fare, not really full meals. Maybe more optionality of premium snacks would be nice.",No,"Frequency of check ins, speed of delivery, and service quality from flight attendants",1,1,,2,4,4
+1,2,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,2,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,4,1,,1,1,,1,4,4,4,3,4,1,2,1,2,2,2,2,2,,,"Flight attendants provide more food without question when I ask for some.  For example, getting the entire can of soda as opposed to just the small glass or extra cookie bag.",1,1,,6,2,4
+1,1,2,,1,1,,2,3,3,3,3,4,0,6,2,2,2,1,2,0,"I’d be more likely to eat some of it if it were simpler. Give me a plate with a bunch of noodles, with no mystery sauce or extra ingredients. Just vegetables. Any type of meat. Separate, rather than together as an unholy monstrosity.",,Explanation of options should be clear and thorough.,1,1,,2,6,3
+1,3,2,,1,1,,1,3,2,3,3,2,3,1,2,2,2,1,1,2,"one time i went on an international flight that did not offer a meal to everyone, only specific ticket types. for longer flights, international flights, and overnight flights everyone should get a meal with their ticket. ",,having at least 2 options for a meal.,2,6,latino,2,3,4
+1,1,3,,1,1,,1,3,2,1,3,3,0,6,0,2,2,1,2,2,I sleep during flights because I get very sick. My best flight ever was one where everytime I woke up a sprite had either appeared or disappeared in front of me. ,Food is not that important to me on planes because is get motion sick ,Sprite ,2,1,,2,1,4
+1,2,4,School,1,1,,2,3,3,1,3,3,3,2,1,2,2,1,2,2,,,,1,4,,2,6,3
+1,3,3,,1,2,,1,7,4,4,2,5,3,2,3,4,1,2,1,4,,,,2,4,,7,5,5
+1,3,2,,1,1,,1,7,4,5,3,5,2,1,2,3,1,2,1,2,,,,2,4,,2,2,4
+1,1,1,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,3,2,,2,2,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,1,1,,2,4,3,4,3,4,2,1,2,3,1,1,2,3,,,,2,3,,3,1,5
+1,1,3,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,1,4,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,3,3,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,3,,1,1,,1,4,3,4,2,4,2,1,2,2,2,1,2,2,"I like having multiple options with the dining experience. At least two options is preferred for me, with one meat option at least. ",,Kind interactions from employees with a kind greeting is very important for me. I also like when the food is hot as well during mealtimes if the food is cold that would affect my experience negatively ,1,6,Hispanic/White,2,7,5
+1,1,3,,1,2,,1,4,3,5,3,4,3,6,2,4,1,2,1,4,The portion size of meal can improve,How fresh and Hygienic are the meals?,Beverages before and after meals,2,4,,3,1,4
+1,1,4,Abroad Education,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,4,Education,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,4,3,,1,1,,2,6,2,2,3,4,1,2,1,2,2,1,2,2,,,,2,4,,2,2,5
+1,1,1,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,3,,2,1,,2,3,3,2,2,2,1,4,1,2,2,2,2,2,,,,2,1,,7,5,2
+1,3,1,,1,2,,2,6,2,1,2,5,4,1,3,2,2,2,1,4,"In India , you can choose to book meals in advance . and there are fast food purchase options like noodles, nuts cookies you can buy. some airlines do give meals like sandwich or muffin free for the same ticket cost. people are likely to choose those airlines",its important for long duration flights . emirates has good catering,yes like emirates has good Indian and vegetarian options. ,2,4,,4,3,4
+1,1,4,Studies,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,2,3,,1,2,,1,4,2,4,3,4,3,6,1,3,1,1,1,3,,,,2,4,,3,1,5
+1,1,1,,2,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,3,,1,6,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,3,3,,1,2,,1,4,4,3,2,5,3,6,2,3,2,1,1,3,Too cramped seating,N/A,Choice of food and beverage ,1,4,,5,3,5
+1,1,2,,1,8,Allergies,1,3,2,4,3,4,0,1,1,2,2,1,2,2,,,,2,1,,2,3,4
+1,1,1,,2,1,,1,3,2,3,2,4,3,2,1,0,2,1,2,0,,,The quality and variety of food being offered ,1,1,,5,6,4
+1,1,3,,1,1,,2,6,1,2,2,4,3,2,1,3,1,1,1,3,,,,1,4,,3,4,5
+1,1,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,2,3,,1,2,,2,6,2,2,3,4,3,1,2,2,2,2,1,3,"flights should serve food as well, not just beverages on domestic flights. ",n/a,,2,4,,3,7,4
+1,2,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,3,,1,1,,1,6,2,1,2,4,0,2,1,0,2,1,1,1,,,,1,1,,6,6,5
+1,2,2,,1,1,,1,3,3,2,3,3,3,1,0,2,2,1,2,0,Complimentary snacks should be more substantial. Packages seem to get smaller over time.,,,2,1,,3,5,5
+1,1,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,2,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,1,1,,1,7,3,5,2,5,3,4,2,2,1,2,1,4,,,,1,4,,4,6,5
+1,2,3,,1,2,,2,3,3,1,2,5,2,3,1,2,2,1,1,3,,"Sometimes family experience with offered meals were not great. Also, airlines need to consider child friendly meals. ",,1,4,,4,6,5
+1,2,3,,3,5,,1,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,1,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,2,1,,1,1,,2,4,3,4,3,5,4,3,3,2,1,2,1,4,,,,2,4,,2,4,5
+1,1,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,1,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,2,1,,1,4,3,3,2,4,3,2,1,1,2,2,1,1,,Perhaps fresh fruit and salads should be offered ,The demeanor of the flight attendants ,1,1,,7,4,5
+1,2,3,,1,1,,2,3,2,2,3,3,3,2,1,1,2,1,2,2,,,,2,1,,5,5,4
+1,2,2,,1,1,,2,3,3,2,3,3,0,1,1,2,1,1,1,2,,,,2,1,,5,6,4
+1,2,1,,1,1,,1,6,2,1,3,2,3,2,1,1,2,1,2,2,Provide in flight meals included with ticket cost. I'm not aware of any domestic airline that does this anymore. ,,I had no mealtimes on my flights. They just passed out snacks. ,2,1,,4,6,5
+1,1,2,,1,"1,8",Lactose intolerance ,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,4,furry convention,1,4,,1,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,2,,1,1,,1,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,3,,1,1,,2,4,3,2,3,4,4,6,1,1,1,2,1,3,,,,1,4,,2,1,4
+1,1,2,,1,"1,4",,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,1,3,,1,1,,1,4,3,4,2,4,3,3,2,3,1,1,1,3,Need some spices ,Provide it in time ,Drinks,1,4,,3,1,4
+1,2,2,,1,1,,1,4,3,4,3,3,2,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,3,4,50 business/50 leisure,2,1,,4,4,3,4,3,4,3,2,1,2,2,1,1,2,,,,1,4,,2,6,4
+1,2,3,,1,1,,2,3,2,4,2,4,3,2,0,2,2,1,2,1,Customer service could be faster when bring out the drink cart,"I always find it annoying when sandwich options aren't available, even if the flight is under 2 hours. ",I love the free drink cart and always look forward too it. ,1,1,,2,1,4
+1,1,3,,2,1,,1,7,4,4,2,5,4,3,2,2,1,2,1,4,premium meal plan and meal option selection would improve the experience more.,Making the traveler aware of what snacks will be provided in-flight and giving them options to select what to get can improve the efficiency of food catering.,Making sure the traveler has been requested for any food to be served.,1,4,,2,7,4
